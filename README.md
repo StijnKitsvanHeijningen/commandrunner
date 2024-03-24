@@ -12,12 +12,12 @@ First, download an AppImage from the Releases tab. Then, make sure you set it's 
 chmod +x ./Command_Runner-x86_64.AppImage
 ./Command_Runner-x86_64.AppImage
 ```
-When you first boot it up, make sure you put it in a location where you want to keep it permanently. When the program first boots up
-it will ask you if you want to create a desktop file to be able to find it in your start menu and pin it to your task manager. This stores the location
-of the AppImage in the desktop file. 
+Before you start Command Runner for the first time, make sure you put it in the correct location. On first startup Command Runner
+will ask you if it can create a .desktop file so you can find Command Runner in your start menu and pin it to your task manager. This stores the current location
+of the AppImage in the .desktop file. 
 
-When you have moved your AppImage to a different location, delete your .desktop file in your ~/.local/share/applications and re-open the program
-let it create the desktopfile again. If it doesn't ask you, you can always go to File -> Install desktop file to create it.
+When you have moved your AppImage to a different location, delete your .desktop file in your ~/.local/share/applications folder and re-open the program to
+let it create the .desktop file again. Alternatively, you can go to "File-> Install desktop file" to install the .desktop file.
 
 # Building
 
