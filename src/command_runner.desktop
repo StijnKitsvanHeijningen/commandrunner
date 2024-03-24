@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Icon=command_runner
+Exec=Command_Runner
+Version=1.0
+Type=Application
+Categories=Utility
+Name=Command Runner

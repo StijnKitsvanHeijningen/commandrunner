@@ -1,0 +1,54 @@
+*{
+  font-family: 'Ubuntu';
+}
+
+button:hover{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+
+text selection{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+
+.commandsScrollWindow{
+  border: solid 1px rgba(128, 128, 128, 0.226);
+}
+
+textview{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+
+/*textview text{
+  background-color: rgba(0, 0, 0, 0.226);
+}*/
+
+
+
+/*entry{
+  border-color: rgba(128, 128, 128, 0.226);
+
+}*/
+entry selection{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+
+
+
+
+list row:hover{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+list row:selected{
+  background-color: rgba(128, 128, 128, 0.226);
+}
+
+button {
+  background-image: none;
+  background-color: rgba(0, 0, 0, 0.39);
+  border-color: rgba(128, 128, 128, 0.226);
+/*   color: rgb(0, 128, 0); */
+  font-size: large;
+}
+button label{
+  font-family: 'Ubuntu';
+}

@@ -1,0 +1,7 @@
+build/
+*.AppImage
+CMakeFiles/
+.vscode/
+CommandRunner
+*.log
+*.err
